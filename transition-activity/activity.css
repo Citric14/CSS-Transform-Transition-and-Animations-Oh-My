@@ -1,1 +1,7 @@
+button {
+    background-color: ghostwhite;
+    border: none;
+    color: black;
+    transition-duration: 2s;
+}
 
